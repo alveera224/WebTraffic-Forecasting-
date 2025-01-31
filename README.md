@@ -70,5 +70,5 @@ Feel free to fork this repository and submit pull requests! If you find this pro
 
 ## 📧 Contact
 **Alveera Fatima**  
-📩 Email: [your-email@example.com](mailto:your-email@example.com)  
+📩 Email: [your-email@example.com](mailto:your-alveerafatima70@gmail.com)  
 🔗 GitHub: [alveera224](https://github.com/alveera224)
